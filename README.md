@@ -35,7 +35,7 @@ python3 -m http.server 8000
 ```
 
 ## What are the attack speed multipliers I see listed on some skills?
-Each skill has its own unique attack animation. Blizzard occasionally wants certain skills to be faster, or slower. Rather than rework the animation directly they simply multiply how quickly your character executes that specific skill.
+Each skill has its own unique attack animation. Blizzard occasionally wants certain skills to be faster or slower, but instead of directly reworking the animation, they simply adjust how quickly your character executes that specific skill.
 
 I datamine that multiplier as the "attack speed multiplier" you see on certain skills.
 
